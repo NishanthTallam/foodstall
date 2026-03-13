@@ -121,7 +121,6 @@ All images were provided by the stall owner and embedded as Base64 PNG data dire
 ## 🙌 Credits
 
 - **Stall:** Back Benchers Stall — Sweet Cravings
-- **Built with:** Claude AI (Anthropic)
 - **Fonts:** Google Fonts — Pacifico & Nunito
 
 ---
